@@ -72,20 +72,22 @@ Me chamo Jeferson Carvalho da Silva, sou natural do Rio Grande do Sul. Atualment
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jefersonCs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=jefersonCs&theme=tokyonight&layout=compact&custom_title=Estatísticas&langs_count=9"
+        height="200"
+        alt="Estatísticas do GitHub"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jefersonCs&layout=compact&theme=tokyonight&langs_count=9"
+        height="200"
+        alt="Tecnologias mais usadas"
+      />
+    </td>
+  </tr>
+</table>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonCs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
